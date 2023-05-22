@@ -17,6 +17,9 @@ print("second no.= ",b)
 b++
 c=b/2
 
+a=b
+b--
+
 
 
 
