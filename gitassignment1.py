@@ -19,6 +19,12 @@ c=b/2
 
 a=b
 b--
+v=b+5+7
+e=a++
+print("a")
+print("b")
+
+
 
 
 
