@@ -13,7 +13,9 @@ print("first no.= ",a)
 print("second no.= ",b)
 
 
-# In[ ]:
+# In[ ]:a=b*2
+b++
+c=b/2
 
 
 
