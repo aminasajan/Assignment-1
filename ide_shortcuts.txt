@@ -1,0 +1,12 @@
+I selected Visual Studio Code (VS Code)and these are the 5 shortcuts for it.
+
+Ctrl + S - Save: This shortcut is used to save the current file in Visual Studio Code.
+
+Ctrl + C / Ctrl + X / Ctrl + V - Copy / Cut / Paste: These shortcuts allow you to copy, cut, and paste selected text or code in Visual Studio Code.
+
+Ctrl + Z / Ctrl + Y - Undo / Redo: These shortcuts help you undo or redo your recent actions in Visual Studio Code.
+
+Ctrl + F - Find: This shortcut opens the search bar in Visual Studio Code, allowing you to find specific text within the current file.
+
+Ctrl + B - Toggle Sidebar: This shortcut is used to toggle the visibility of the sidebar in Visual Studio Code, which contains various panels and file explorers.
+
