@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #8e599c;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    background-color: #485153;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+
+input, select, button {
+    margin: 10px;
+}
+
+#result {
+    font-size: 20px;
+    color: #f8f1f1;
+    margin: 10px;
+}
